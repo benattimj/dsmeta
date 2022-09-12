@@ -6,3 +6,5 @@ do professor Nélio Alves,/ é um
 * Front end = React JS 
 * Integração com SMS 
 * Implementações nas nuvens com CI/CD
+
+https://mbjmeta.netlify.app/
