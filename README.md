@@ -1,10 +1,13 @@
 # dsmeta
 
-'Repositório no qual desenvolvi um sistema realizando um curso intensivo chamado Semana Spring React 
-do professor Nélio Alves,/ é um 
-* Projeto Full Stack ( API rest com Java e SpringBoot ) no back end , banco de dados com ORM
-* Front end = React JS 
-* Integração com SMS 
-* Implementações nas nuvens com CI/CD
+Repository in which I developed a system taking an intensive course called Spring React Week
+by professor Nélio Alves,/ is a
+* Full Stack project (rest API with Java and SpringBoot) in the back end, database with ORM
+* Front end = React JS
+* Integration with SMS
+* Cloud deployments with CI/CD
 
 https://mbjmeta.netlify.app/
+
+
+![DSMETA](https://user-images.githubusercontent.com/95152221/211711966-40429143-df43-4a39-935a-9e4cfbc9a984.jpg)
